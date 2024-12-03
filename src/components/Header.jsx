@@ -1,6 +1,6 @@
 
 export default function Header () {
     return (
-        <h1 className="text-green-500 text-6xl">Hello world</h1>
+        <h1 className="text-6xl text-center mb-10">Tailwind Grid!</h1>
     )
 }
